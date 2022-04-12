@@ -1,0 +1,28 @@
+/* Background */
+body {
+     background: url('../assets/background.jpg');
+     background-size: cover;
+}
+
+/* Make input smaller */
+.input-custom {
+     width: 320px;
+}
+
+/* Layout each carousel item */
+.carousel-item {
+     border: 2px solid black;
+     background: rgba(255, 255, 255, 0.7);
+     backdrop-filter: blur(4px);
+}
+
+/* Adjust img */
+.mealImg {
+     width: 250px;
+     border-color: black;
+}
+
+/* Give padding to ing list */
+.ingList {
+    padding-left: 3rem; 
+}
