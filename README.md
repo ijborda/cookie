@@ -1,4 +1,4 @@
-# Cookie 
+# Cookie | Look for Recipes
 
 Use [Cookie](https://imarijoyborda.com/cookie/) to look for recipes given one main ingredient.
 
@@ -26,3 +26,8 @@ There are still lots that need to be improved in this web application. Some plan
 Contributions are also very welcome! Just issue a pull request.
 
 ## Thanks for checking it out!
+
+Check out my other projects:
+* [R Header Cleaner | Clean R headers on the Go](https://github.com/ijborda/r-header-cleaner)
+* [Tic-Tac-Toe | Have fun](https://github.com/ijborda/tic-tac-toe)
+* [Cookie | Look for Recipes](https://github.com/ijborda/cookie)
