@@ -1,10 +1,10 @@
 # Cookie 
 
-Use [Cookie](https://github.com/ijborda/cookie) to look for recipes given one main ingredient.
+Use [Cookie](https://imarijoyborda.com/cookie/) to look for recipes given one main ingredient.
 
 My motivation: I made this for my friend who loves to cook but doesn't always know what to cook! Now he can use this site to view recipes involving the hero ingredient he has in mind.  
 
-Link to project:[https://github.com/ijborda/cookie](https://github.com/ijborda/cookie). 
+Link to project:[https://imarijoyborda.com/cookie/](https://imarijoyborda.com/cookie/). 
 
 ![Screenshot of Site - 1](assets/readme/readme-1.png)
 
