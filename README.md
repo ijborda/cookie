@@ -14,7 +14,7 @@ Enter a keyword (usually a main ingredient) in the textbox then press `Submit`. 
 For each recipe, a picture of the dish is shown as well as the list of ingredients and the step-by-step instruction on how to make it.
 
 ## How It's Made
-This uses [MealDB API](https://www.themealdb.com). Tech used: HTML, CSS, Bootstrap, and JavaScript.
+This uses [MealDB API](https://www.themealdb.com). Tech used: HTML, CSS, Bootstrap, and JavaScript. <a href="https://www.flaticon.com/free-icons/chef" title="chef icons">Chef icons created by Freepik - Flaticon</a>
 
 ## Future Improvements
 There are still lots that need to be improved in this web application. Some plans are:
